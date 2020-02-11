@@ -1,0 +1,11 @@
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\readPdf\readPdf\bin\Debug\netcoreapp3.0\readPdf.exe
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\readPdf\readPdf\bin\Debug\netcoreapp3.0\readPdf.deps.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\readPdf\readPdf\bin\Debug\netcoreapp3.0\readPdf.runtimeconfig.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\readPdf\readPdf\bin\Debug\netcoreapp3.0\readPdf.runtimeconfig.dev.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\readPdf\readPdf\bin\Debug\netcoreapp3.0\readPdf.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\readPdf\readPdf\bin\Debug\netcoreapp3.0\readPdf.pdb
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\readPdf\readPdf\obj\Debug\netcoreapp3.0\readPdf.csprojAssemblyReference.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\readPdf\readPdf\obj\Debug\netcoreapp3.0\readPdf.AssemblyInfoInputs.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\readPdf\readPdf\obj\Debug\netcoreapp3.0\readPdf.AssemblyInfo.cs
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\readPdf\readPdf\obj\Debug\netcoreapp3.0\readPdf.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\readPdf\readPdf\obj\Debug\netcoreapp3.0\readPdf.pdb
